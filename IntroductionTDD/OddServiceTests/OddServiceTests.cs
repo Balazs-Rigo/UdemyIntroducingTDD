@@ -67,5 +67,16 @@ namespace OddServiceTests
             Assert.Equal(0, service.Third);
         }
 
+        [Fact]
+        public void IncreaseCounters_LargerThanSeven_ThirdIncreased()
+        {
+            var service = new ExampleServiceImplementation();
+            service.IncreaseCounters(11);
+
+            Assert.Equal(0, service.First);
+            Assert.Equal(0, service.Second);
+            Assert.Equal(1, service.Third);
+        }
+
     }
 }

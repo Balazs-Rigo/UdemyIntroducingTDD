@@ -22,6 +22,10 @@ namespace OddService
             {
                 Second++;
             }
+            else if (number >7)
+            {
+                Third++;
+            }
         }
     }
 }
