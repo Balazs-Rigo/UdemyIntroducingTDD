@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPSection4", "SRP\SRPSecti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_Section4", "Singleton_Section4\Singleton_Section4.csproj", "{EAA7EE0F-70B3-4DB7-8549-DE5A55A3906D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquipmentService_Section5_2", "EquipmentService\EquipmentService_Section5_2.csproj", "{DEA7BA0D-FAE8-4027-8F38-6FCC8397346C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{EAA7EE0F-70B3-4DB7-8549-DE5A55A3906D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAA7EE0F-70B3-4DB7-8549-DE5A55A3906D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAA7EE0F-70B3-4DB7-8549-DE5A55A3906D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA7BA0D-FAE8-4027-8F38-6FCC8397346C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA7BA0D-FAE8-4027-8F38-6FCC8397346C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA7BA0D-FAE8-4027-8F38-6FCC8397346C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA7BA0D-FAE8-4027-8F38-6FCC8397346C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
