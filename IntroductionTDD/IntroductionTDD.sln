@@ -5,11 +5,15 @@ VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionTDD", "IntroductionTDD\IntroductionTDD.csproj", "{1F27DCA1-1B57-412F-9C77-3AC3F3E57D85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject", "XUnitTestProject\XUnitTestProject.csproj", "{8FA5D393-6E44-4105-A7FD-1DC5FB1FE4F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTestProject", "XUnitTestProject\XUnitTestProject.csproj", "{8FA5D393-6E44-4105-A7FD-1DC5FB1FE4F8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddService", "OddService\OddService.csproj", "{E322D3A7-984A-47F2-8F97-3E3009A407E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddServiceTests", "OddServiceTests\OddServiceTests.csproj", "{1C1EF6DC-4913-4915-B3AE-CC9A1EC6CDAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSRP", "NoSRP\NoSRP.csproj", "{11AE2046-0D26-4D74-89DF-1EA36ADAC273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPSection4", "SRP\SRPSection4.csproj", "{1341101D-CC36-49EE-9718-2CCCA81E3CEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{1C1EF6DC-4913-4915-B3AE-CC9A1EC6CDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C1EF6DC-4913-4915-B3AE-CC9A1EC6CDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C1EF6DC-4913-4915-B3AE-CC9A1EC6CDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AE2046-0D26-4D74-89DF-1EA36ADAC273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AE2046-0D26-4D74-89DF-1EA36ADAC273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AE2046-0D26-4D74-89DF-1EA36ADAC273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AE2046-0D26-4D74-89DF-1EA36ADAC273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1341101D-CC36-49EE-9718-2CCCA81E3CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1341101D-CC36-49EE-9718-2CCCA81E3CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1341101D-CC36-49EE-9718-2CCCA81E3CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1341101D-CC36-49EE-9718-2CCCA81E3CEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
