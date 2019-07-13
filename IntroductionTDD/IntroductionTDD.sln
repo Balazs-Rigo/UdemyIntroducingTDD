@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSRP", "NoSRP\NoSRP.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPSection4", "SRP\SRPSection4.csproj", "{1341101D-CC36-49EE-9718-2CCCA81E3CEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_Section4", "Singleton_Section4\Singleton_Section4.csproj", "{EAA7EE0F-70B3-4DB7-8549-DE5A55A3906D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1341101D-CC36-49EE-9718-2CCCA81E3CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1341101D-CC36-49EE-9718-2CCCA81E3CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1341101D-CC36-49EE-9718-2CCCA81E3CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA7EE0F-70B3-4DB7-8549-DE5A55A3906D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA7EE0F-70B3-4DB7-8549-DE5A55A3906D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA7EE0F-70B3-4DB7-8549-DE5A55A3906D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA7EE0F-70B3-4DB7-8549-DE5A55A3906D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
